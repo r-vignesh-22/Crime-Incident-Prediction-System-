@@ -14,10 +14,3 @@ This project aims to support law enforcement and policymakers in making data-dri
 - 👥 Team collaboration on GitHub  
 
 ---
-
-## ⚙️ Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/r-vignesh-22/Crime-Incident-Prediction-System-.git
-   cd Crime-Incident-Prediction-System-
